@@ -1,4 +1,4 @@
-# Understanding-style-transfer
+# Understanding style transfer
 
 This is a Jupyter notebook which accompanies a blog post on [ptrrupprecht.wordpress.com](ptrrupprecht.wordpress.com). It should be self-explanatory, since it consists mainly of plots.
 
